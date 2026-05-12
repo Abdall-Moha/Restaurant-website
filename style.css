@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.title{
+
+    background-color: yellowgreen;
+}
+.text{
+    background-color: green;
+    font-size: 20px;
+}
